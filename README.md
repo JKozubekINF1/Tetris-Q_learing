@@ -10,8 +10,7 @@ Projekt "Tetris Q-Learning AI" to implementacja sztucznej inteligencji opartej n
 
 ## Wymagania
 - **Python**: 3.9+
-- **Biblioteki**: NumPy, TensorFlow, Selenium
-- **Node.js**: Do uruchamiania gry
+- **Biblioteki**: NumPy, Selenium, matplotlib
 - **Przeglądarka**: Chrome lub Firefox
 
 ## Uruchomienie
