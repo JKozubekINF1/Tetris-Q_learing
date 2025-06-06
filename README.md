@@ -15,6 +15,22 @@ Projekt "Tetris Q-Learning AI" to implementacja sztucznej inteligencji opartej n
 - **Przeglądarka**: Chrome lub Firefox
 
 ## Uruchomienie
-1. Sklonuj repozytorium:
-   ```bash
-   git clone https://github.com/JKozubekINF1/Tetris-Q_learning.git
+Należy zainstalować projekt AI do grania w tetrisa:
+```bash
+git clone https://github.com/JKozubekINF1/Tetris-Q_learing
+```
+
+Przejdź do nowo utworzonego folderu:
+```bash
+cd Tetris-Q_learing
+```
+
+Następnie zainstalować zależności:
+```bash
+pip install numpy matplotlib selenium
+```
+
+Aby zacząć grę w tetrisa należy uruchomić play_tetris.py:
+```bash
+python play_tetris.py
+```
