@@ -14,7 +14,7 @@ Projekt "Tetris Q-Learning AI" to implementacja sztucznej inteligencji opartej n
 - **Przeglądarka**: Chrome lub Firefox
 
 ## Uruchomienie
-Należy zainstalować projekt AI do grania w tetrisa:
+Należy sklonować repozytorium lub pobrać plik ZIP projektu:
 ```bash
 git clone https://github.com/JKozubekINF1/Tetris-Q_learing
 ```
